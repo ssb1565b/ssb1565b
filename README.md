@@ -1,3 +1,9 @@
+
+
+<a target="_blank" href="http://ssongsu.dothome.co.kr/">![logo_black](https://user-images.githubusercontent.com/84695884/226162624-9615cc13-2e97-4762-b653-d16355af5a75.png)</a>
+<p style="position: absolute;">:: Fast Forward To Becoming A Web Developer</p>
+<a target="_blank" href="http://ssongsu.dothome.co.kr/"><img src="https://user-images.githubusercontent.com/84695884/226162907-f4775753-d8bd-4500-917a-772e88b9214a.gif" /></a>
+
 ## Web Developer + Designer :: AKA.개자이너 
 - 안녕하세요! 한번 시작하면 끝날때까지 멈추지 않는 **도미노와 같은 개발자** 송수빈입니다
 - 다양한 도전과 경험을 좋아하여 빠르게 시도해보고 이를 양분삼아 성장합니다
