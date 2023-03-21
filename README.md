@@ -3,7 +3,7 @@
 <span>포트폴리오 사이트를 보려면 아래 이미지를 클릭해주세요.</span>
 
 
-<a target="_blank" href="http://ssongsu.dothome.co.kr/"><img src="https://user-images.githubusercontent.com/84695884/226165251-196c36b0-28b3-4706-9b20-3ea23d99ae12.gif" /></a>
+<!-- <a target="_blank" href="http://ssongsu.dothome.co.kr/"><img src="https://user-images.githubusercontent.com/84695884/226165251-196c36b0-28b3-4706-9b20-3ea23d99ae12.gif" /></a> -->
 
 
 <p>CLICK ☝️☝️☝️ </p>
