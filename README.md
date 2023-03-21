@@ -29,19 +29,21 @@
 ### 👊 Designer Skills
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> 
 
-<!--
-**ssb1565b/ssb1565b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
+
+
+
+
+
+
+
+
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssb1565b&theme=dracula) 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ssb1565b&show_icons=true&theme=radical">
+
+<!-- ### BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/) -->
