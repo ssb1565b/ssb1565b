@@ -6,7 +6,7 @@
 <!-- <a target="_blank" href="http://ssongsu.dothome.co.kr/"><img src="https://user-images.githubusercontent.com/84695884/226165251-196c36b0-28b3-4706-9b20-3ea23d99ae12.gif" /></a> -->
 
 
-// <p>CLICK☝️☝️☝ㅡ.</p>
+// <p>CLICK☝️☝️☝ㅡ</p>
 
 
 ### 👊 Web Developer + Designer :: AKA.개자이너 
