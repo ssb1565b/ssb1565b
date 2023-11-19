@@ -13,7 +13,7 @@
 - 디자인 + 개발을 통해 Interactive Web 개발자를 꿈꾸고 있습니다
 - 피드백과 지속적인 회고의 가치를 알고 이러한 문화를 즐깁니다
 
-## 💻 Developer Skills
+## 💻 Develop Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
 
 
-## 🌈 Designer Skills
+## 🌈 Design Skills
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> 
 
 
